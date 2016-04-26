@@ -1,0 +1,29 @@
+{
+  "name": "lasso-minify-inline-js",
+  "version": "0.1.0",
+  "description": "Lasso.js plugin to minify inline javascript",
+  "keywords": [
+    "lasso",
+    "plugin",
+    "minify",
+    "inline",
+    "js",
+    "javascript"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yomed/lasso-minify-inline-js.git"
+  },
+  "author": {
+    "name": "Yoni Medoff",
+    "email": "yonimedoff@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "uglify-js": "^2.6.2"
+  }
+}

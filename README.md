@@ -1,3 +1,6 @@
+# Deprecated
+Lasso.js has incorporated the functionality of this plugin in both v1 and v2 as of [1.18.0](https://github.com/lasso-js/lasso/releases/tag/v1.18.0) and [2.3.0](https://github.com/lasso-js/lasso/releases/tag/v2.3.0).
+
 # lasso-minify-inline-js
 
 [Lasso.js](https://github.com/lasso-js/lasso) plugin to minify inline javascript using
